@@ -1,0 +1,15 @@
+.navbar-inverse {
+  background-image: linear-gradient(to bottom,#212121 0,#222 100%);
+}
+
+.jumbotron {
+  margin-top: 70px;
+}
+
+.list-group {
+  margin-top: 70px;
+}
+
+.col-sm-4 {
+  margin-left: -15px;
+}
